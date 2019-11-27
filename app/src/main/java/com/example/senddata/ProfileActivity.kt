@@ -9,7 +9,7 @@ class ProfileActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_profile)
 
-        supportActionBar?.title = "Back home "
+        supportActionBar?.title = "Back "
 
     }
 
